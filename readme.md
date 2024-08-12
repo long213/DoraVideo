@@ -3,8 +3,7 @@
 현재 개발중이며 버그 및 수정사항이 존재합니다.
 
 # 최신 버전 다운로드
-[최신 버전 다운로드 바로가기][release-lastest-apk]
-[release-lastest-apk]:  https://github.com/long213/DoraVideo/releases/tag/dev21
+[최신 버전 다운로드 바로가기][https://github.com/long213/DoraVideo/releases/tag/dev21]
 
 
 
