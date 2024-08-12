@@ -2,6 +2,10 @@
 도라에몽 스트리밍 앱입니다. 
 현재 개발중이며 버그 및 수정사항이 존재합니다.
 
+# 최신 버전 다운로드
+[최신 버전 다운로드 바로가기][release-lastest-apk]
+[release-lastest-apk]:  https://github.com/long213/DoraVideo/releases/tag/dev21
+
 
 
 # ChangeLog
@@ -19,6 +23,8 @@
 - 버그 및 오류 수정
 - 일부 기기에서 스크린 사이즈가 맞지 않는 오류 수정
 - 뒤로가기 스크롤이 작동하지 않는 오류 수정
+
+## V3.4
 
 # 설치 방법
 다운로드한 APK를 실행합니다. 
