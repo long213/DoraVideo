@@ -3,7 +3,7 @@
 현재 개발중이며 버그 및 수정사항이 존재합니다.
 
 # 최신 버전 다운로드
-[최신 버전](https://github.com/long213/DoraVideo/releases/tag/dev21)
+[최신 버전 다운로드](https://github.com/long213/DoraVideo/releases/tag/dev21)
 
 
 
